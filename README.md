@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Casper-69
-- 👀 I’m interested in ML/AI, web3, Crypto
+- 👀 I’m interested in ML/AI, Design & Crypto
 - 🌱 I’m currently learning UI/UX and webD
 - 👩🏻‍💻 I code in C++(mostly), Java and python
 - 📫 How to reach me: @Vanshika_owo -Twitter
